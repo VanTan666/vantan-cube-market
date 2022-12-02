@@ -1,0 +1,48 @@
+.v__sale {
+    max-width: 1000px;
+    width: 100%;
+}
+
+.main {
+    margin-top: 14px;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 30px;
+    margin-right: 60px;
+    display: inline-block;
+}
+
+.footer {
+    background-color: beige;
+    height: 125px;
+    text-align: center;
+    padding: 30px;
+}
+
+.img__shop {
+    display: block;
+    margin-right: 40px;
+}
+
+.n {
+    text-align: center;
+}
+
+.otdel {
+    padding: 10%;
+}
+
+
+@media screen and (max-width: 989px){
+    .card {
+        margin: 0 auto;
+        margin-bottom: 30px;
+        display: block;
+        margin-bottom: 20pxpx;
+    }
+    .d-flex {
+        margin-top: 15px;
+    }
+}
