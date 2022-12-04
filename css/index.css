@@ -3,6 +3,24 @@
     width: 100%;
 }
 
+header .top {
+    max-width: 1000px;
+    width: 100%;
+}
+.sas {
+    background-color: #EDEDF5;
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.img__shop2 {
+    width: 40px;
+    text-align: center;
+}
+
 .main {
     margin-top: 14px;
     text-align: center;
@@ -23,7 +41,8 @@
 
 .img__shop {
     display: block;
-    margin-right: 40px;
+    /* margin-bottom: 20px; */
+    margin-right: 15px;
 }
 
 .n {
@@ -34,6 +53,19 @@
     padding: 10%;
 }
 
+.ok {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.c2 {
+    display: block;
+    margin: 0 auto;
+}
+
+.main2 {
+    padding: 7%;
+}
 
 @media screen and (max-width: 989px){
     .card {
